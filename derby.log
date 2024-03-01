@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 01 15:06:15 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-f9e8-69b9-0000015d1da0 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/da81dfac-850b-4955-bf1c-bd44e8155983 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
