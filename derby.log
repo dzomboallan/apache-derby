@@ -1,7 +1,202 @@
 ----------------------------------------------------------------
-Fri Mar 01 15:06:15 EAT 2024:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-f9e8-69b9-0000015d1da0 
-on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/da81dfac-850b-4955-bf1c-bd44e8155983 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Fri Mar 01 15:18:51 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/763056af-e3e9-4bb3-be5a-2df0401971c9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:22:20 EAT 2024:
+Shutting down instance a816c00e-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/763056af-e3e9-4bb3-be5a-2df0401971c9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:22:21 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance e66540fa-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/c9e370b5-fc87-4489-aace-a53eb9ae034d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:24:57 EAT 2024:
+Shutting down instance e66540fa-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/c9e370b5-fc87-4489-aace-a53eb9ae034d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:25:00 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 80da41f2-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/3f24ef18-3f5d-474b-8640-d86c07092416 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:25:04 EAT 2024:
+Shutting down instance 80da41f2-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/3f24ef18-3f5d-474b-8640-d86c07092416 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:25:06 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 575f42ea-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/1854c8e5-12f4-40d4-84ba-5e2cafddcb0b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:25:07 EAT 2024:
+Shutting down instance 575f42ea-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/1854c8e5-12f4-40d4-84ba-5e2cafddcb0b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:25:08 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 69f443e2-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/28e9a04d-08ce-41b1-b3a2-e1e33f862a7e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:25:25 EAT 2024:
+Shutting down instance 69f443e2-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/28e9a04d-08ce-41b1-b3a2-e1e33f862a7e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:25:26 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance b89944da-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/48f6c587-b047-4447-bf8f-02ee5ef88d8f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:37:51 EAT 2024:
+Shutting down instance b89944da-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/48f6c587-b047-4447-bf8f-02ee5ef88d8f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:37:52 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 434e45d2-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/e7b592aa-bdf2-4fa6-b6f1-fb4d5796d70c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:37:52 EAT 2024:
+Shutting down instance 434e45d2-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/e7b592aa-bdf2-4fa6-b6f1-fb4d5796d70c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+----------------------------------------------------------------
+Fri Mar 01 15:37:52 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 0a1346ca-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/e7b592aa-bdf2-4fa6-b6f1-fb4d5796d70c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:38:40 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance e3c5c6cb-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/287a529d-c034-43bc-aa88-85a044100add with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:38:40 EAT 2024:
+Shutting down instance e3c5c6cb-018d-f9f3-f5b4-000002441130 on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/287a529d-c034-43bc-aa88-85a044100add with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Fri Mar 01 15:38:40 EAT 2024 Thread[Thread-124,5,main] Cleanup action starting
+java.sql.SQLException: Database 'memory:287a529d-c034-43bc-aa88-85a044100add' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:115)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3208)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(EmbedConnection.java:767)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(EmbedConnection.java:437)
+	at org.apache.derby.iapi.jdbc.InternalDriver.getNewEmbedConnection(InternalDriver.java:630)
+	at org.apache.derby.iapi.jdbc.InternalDriver$LoginCallable.call(InternalDriver.java:400)
+	at org.apache.derby.iapi.jdbc.InternalDriver$LoginCallable.call(InternalDriver.java:376)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: ERROR XJ004: Database 'memory:287a529d-c034-43bc-aa88-85a044100add' not found.
+	at org.apache.derby.shared.common.error.StandardException.newException(StandardException.java:299)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	... 13 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'memory:287a529d-c034-43bc-aa88-85a044100add' not found.
+	at org.apache.derby.shared.common.error.StandardException.newException(StandardException.java:299)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(SQLExceptionFactory.java:170)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:75)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(SQLExceptionFactory.java:141)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:225)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Util.java:220)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(EmbedConnection.java:3208)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(EmbedConnection.java:767)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(EmbedConnection.java:437)
+	at org.apache.derby.iapi.jdbc.InternalDriver.getNewEmbedConnection(InternalDriver.java:630)
+	at org.apache.derby.iapi.jdbc.InternalDriver$LoginCallable.call(InternalDriver.java:400)
+	at org.apache.derby.iapi.jdbc.InternalDriver$LoginCallable.call(InternalDriver.java:376)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Fri Mar 01 15:38:40 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 26d8c7c3-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/287a529d-c034-43bc-aa88-85a044100add with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
+Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Private Build
+java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
+user.dir=/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-21-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Mar 01 15:38:51 EAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 60c987c4-018d-f9f3-f5b4-000002441130 
+on database directory memory:/home/hunnytaggy/Desktop/Spring Boot/Apache-derby-example/7800a4d9-8b5c-44ce-92fe-c69ba10c59cd with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1698c449 
 Loaded from file:/home/hunnytaggy/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
 java.vendor=Private Build
 java.runtime.version=18.0.2-ea+9-Ubuntu-222.04
